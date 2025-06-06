@@ -26,3 +26,4 @@ console.log(typeof name); // string
 console.log(typeof age); // number
 console.log(typeof null); // object (this is a bug in JS)
 console.log(typeof undefined); // boolean
+
